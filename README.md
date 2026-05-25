@@ -41,7 +41,13 @@
 
 ---
 
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=LamaBucket&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=LamaBucket&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LamaBucket&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165em" src="https://github-readme-stats-fast.vercel.app/api?username=LamaBucket&theme=github_dark&hide_border=false&show_icons=true&include_all_commits=true&count_private=true" />
+  <img height="165em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=LamaBucket&theme=github_dark&hide_border=false&layout=compact&langs_count=8" />
+</p>
+
+<p align="center">
+  <img height="250em" src="https://github-readme-activity-graph.vercel.app/graph?username=LamaBucket&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" />
+</p>
